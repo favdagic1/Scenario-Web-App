@@ -631,7 +631,7 @@ let EditorTeksta = function (divRef) {
             return false;
         }
 
-        // Provjeri da li cijela selekcija je unutar editora
+        // Provjeri da li je cijela selekcija  unutar editora
         let startContainer = range.startContainer;
         let endContainer = range.endContainer;
 
@@ -655,7 +655,7 @@ let EditorTeksta = function (divRef) {
         }
     };
 
-    // Vraćamo javne metode
+    // Vraćam javne metode
     return {
         dajBrojRijeci: dajBrojRijeci,
         dajUloge: dajUloge,

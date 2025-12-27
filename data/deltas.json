@@ -1,0 +1,49 @@
+[
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 2,
+    "nextLineId": null,
+    "content": "Alarms BLARE. Red lights flash across the control panels. The crew scrambles to their stations.",
+    "timestamp": 1766848889
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 2,
+    "content": "INT. STARSHIP BRIDGE - NIGHT",
+    "timestamp": 1766848889
+  },
+  {
+    "scenarioId": 1,
+    "type": "char_rename",
+    "oldName": "KIRA",
+    "newName": "CAPTAIN KIRA",
+    "timestamp": 1766848901
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 3,
+    "nextLineId": 4,
+    "content": "the backend server to demonstrate the wrapping functionality which is required by the assignment specifications for spiral three of the",
+    "timestamp": 1766848930
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 4,
+    "nextLineId": 2,
+    "content": "project",
+    "timestamp": 1766848930
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 3,
+    "content": "This is a very long line with more than twenty words that should be automatically wrapped into multiple lines by",
+    "timestamp": 1766848930
+  }
+]

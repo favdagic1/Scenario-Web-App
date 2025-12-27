@@ -172,6 +172,124 @@ document.addEventListener('DOMContentLoaded', function () {
             }
         });
 
+        // ============================================
+        // SPIRALA 3 - Backend API funkcionalnosti
+        // ============================================
+
+        // Kreiraj novi scenarij
+        document.getElementById('btnCreateScenario').addEventListener('click', function () {
+            const title = prompt('Unesite naslov scenarija:', 'Moj Novi Scenarij');
+            if (title === null) return; // Korisnik je kliknuo Cancel
+
+            PoziviAjax.postScenario(title, function(status, response) {
+                if (status === 200) {
+                    porukeDiv.innerHTML = `
+                        <h3 style="color: #059669;">✓ Scenarij uspješno kreiran!</h3>
+                        <p><strong>ID:</strong> ${response.id}</p>
+                        <p><strong>Naslov:</strong> ${response.title}</p>
+                        <p><strong>Broj linija:</strong> ${response.content.length}</p>
+                        <p style="margin-top: 10px; font-size: 13px; color: #6b7280;">
+                            Postavite Scenario ID na ${response.id} i kliknite "Učitaj Scenarij" da učitate scenarij.
+                        </p>
+                    `;
+                    // Automatski postavi scenario ID
+                    document.getElementById('inputScenarioId').value = response.id;
+                } else {
+                    porukeDiv.innerHTML = `<p style="color: #dc2626;">Greška: ${response.message}</p>`;
+                }
+            });
+        });
+
+        // Učitaj scenarij sa servera
+        document.getElementById('btnLoadScenario').addEventListener('click', function () {
+            const scenarioId = parseInt(document.getElementById('inputScenarioId').value);
+
+            if (isNaN(scenarioId) || scenarioId < 1) {
+                porukeDiv.innerHTML = '<p style="color: #dc2626;">Molimo unesite validan Scenario ID!</p>';
+                return;
+            }
+
+            PoziviAjax.getScenario(scenarioId, function(status, response) {
+                if (status === 200) {
+                    // Učitaj scenarij u editor
+                    let html = '';
+
+                    // Rekonstruiši scenarij u pravilnom redoslijedu koristeći nextLineId
+                    let lineMap = {};
+                    response.content.forEach(line => {
+                        lineMap[line.lineId] = line;
+                    });
+
+                    // Pronađi prvu liniju (ona koja nije nextLineId ni jedne linije)
+                    let allNextIds = new Set(response.content.map(l => l.nextLineId).filter(id => id !== null));
+                    let firstLine = response.content.find(l => !allNextIds.has(l.lineId));
+
+                    if (firstLine) {
+                        let currentLine = firstLine;
+                        while (currentLine) {
+                            html += `<p>${currentLine.text || ''}</p>`;
+                            currentLine = currentLine.nextLineId ? lineMap[currentLine.nextLineId] : null;
+                        }
+                    }
+
+                    divEditor.innerHTML = html;
+
+                    porukeDiv.innerHTML = `
+                        <h3 style="color: #059669;">✓ Scenarij učitan!</h3>
+                        <p><strong>ID:</strong> ${response.id}</p>
+                        <p><strong>Naslov:</strong> ${response.title}</p>
+                        <p><strong>Broj linija:</strong> ${response.content.length}</p>
+                    `;
+                } else {
+                    porukeDiv.innerHTML = `<p style="color: #dc2626;">Greška: ${response.message}</p>`;
+                }
+            });
+        });
+
+        // Sačuvaj trenutni tekst na backend
+        document.getElementById('btnSaveToBackend').addEventListener('click', function () {
+            const userId = parseInt(document.getElementById('inputUserId').value);
+            const scenarioId = parseInt(document.getElementById('inputScenarioId').value);
+
+            if (isNaN(userId) || userId < 1) {
+                porukeDiv.innerHTML = '<p style="color: #dc2626;">Molimo unesite validan User ID!</p>';
+                return;
+            }
+
+            if (isNaN(scenarioId) || scenarioId < 1) {
+                porukeDiv.innerHTML = '<p style="color: #dc2626;">Molimo unesite validan Scenario ID!</p>';
+                return;
+            }
+
+            // Demonstracija: Zaključaj prvu liniju, ažuriraj je sa trenutnim sadržajem editora
+            const lineId = 1; // Za demonstraciju koristimo prvu liniju
+
+            // 1. Zaključaj liniju
+            PoziviAjax.lockLine(scenarioId, lineId, userId, function(lockStatus, lockResponse) {
+                if (lockStatus === 200) {
+                    // 2. Ažuriraj liniju sa novim tekstom
+                    const editorText = divEditor.innerText || divEditor.textContent || '';
+                    const lines = editorText.split('\n').filter(line => line.trim() !== '');
+
+                    PoziviAjax.updateLine(scenarioId, lineId, userId, lines, function(updateStatus, updateResponse) {
+                        if (updateStatus === 200) {
+                            porukeDiv.innerHTML = `
+                                <h3 style="color: #059669;">✓ Scenarij sačuvan na backend!</h3>
+                                <p>${updateResponse.message}</p>
+                                <p style="margin-top: 10px; font-size: 13px; color: #6b7280;">
+                                    Tekst je automatski prelomnjen ako sadrži više od 20 riječi po liniji.
+                                </p>
+                            `;
+                        } else {
+                            porukeDiv.innerHTML = `<p style="color: #dc2626;">Greška pri ažuriranju: ${updateResponse.message}</p>`;
+                        }
+                    });
+                } else {
+                    porukeDiv.innerHTML = `<p style="color: #dc2626;">Greška pri zaključavanju: ${lockResponse.message}</p>`;
+                }
+            });
+        });
+
     } catch (error) {
         console.error('Greška pri inicijalizaciji editora:', error);
         alert('Greška: ' + error.message);

@@ -1,0 +1,26 @@
+{
+  "id": 1,
+  "title": "Moj Prvi Scenarij",
+  "content": [
+    {
+      "lineId": 1,
+      "nextLineId": 3,
+      "text": "This is a very long line with more than twenty words that should be automatically wrapped into multiple lines by"
+    },
+    {
+      "lineId": 3,
+      "nextLineId": 4,
+      "text": "the backend server to demonstrate the wrapping functionality which is required by the assignment specifications for spiral three of the"
+    },
+    {
+      "lineId": 4,
+      "nextLineId": 2,
+      "text": "project"
+    },
+    {
+      "lineId": 2,
+      "nextLineId": null,
+      "text": "Alarms BLARE. Red lights flash across the control panels. The crew scrambles to their stations."
+    }
+  ]
+}

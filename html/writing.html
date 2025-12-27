@@ -6,6 +6,7 @@
     <title>ScenarijPro - Pisanje scenarija</title>
     <link rel="stylesheet" href="../css/writing.css">
     <script src="../js/EditorTeksta.js" defer></script>
+    <script src="../js/PoziviAjax.js" defer></script>
     <script src="../js/editor.js" defer></script>
 </head>
 <body>
@@ -54,6 +55,15 @@
             <button id="btnBold" class="btn-format-control">Bold</button>
             <button id="btnItalic" class="btn-format-control">Italic</button>
             <button id="btnUnderline" class="btn-format-control">Underline</button>
+        </div>
+
+        <div class="controls-group">
+            <h3>Backend API (Spirala 3):</h3>
+            <input type="number" id="inputUserId" class="input-uloga" placeholder="User ID (npr. 1)" value="1">
+            <input type="number" id="inputScenarioId" class="input-uloga" placeholder="Scenario ID (npr. 1)" value="1">
+            <button id="btnCreateScenario" class="btn-control">Kreiraj Scenarij</button>
+            <button id="btnLoadScenario" class="btn-control">Učitaj Scenarij</button>
+            <button id="btnSaveToBackend" class="btn-format-control">Sačuvaj na Backend</button>
         </div>
     </div>
 
