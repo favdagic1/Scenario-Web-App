@@ -382,9 +382,9 @@ app.post('/api/scenarios/:scenarioId/characters/update', (req, res) => {
 
     // Promijeni ime u svim linijama (case-sensitive)
     scenario.content.forEach(line => {
-        // Zamijeni samo ako je cijela linija jednaka starom imenu (lik je obično sam u liniji)
-        if (line.text === oldName) {
-            line.text = newName;
+        // Zamijeni SVE pojave starog imena u tekstu linije
+        if (line.text.includes(oldName)) {
+            line.text = line.text.replaceAll(oldName, newName);
         }
     });
 

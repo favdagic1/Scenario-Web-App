@@ -4,8 +4,13 @@
   "content": [
     {
       "lineId": 1,
+      "nextLineId": 5,
+      "text": "asd"
+    },
+    {
+      "lineId": 5,
       "nextLineId": 3,
-      "text": "This is a very long line with more than twenty words that should be automatically wrapped into multiple lines by"
+      "text": "wrapping feature implemented in spiral three to demonstrate that the functionality works correctly as specified in the assignment requirements"
     },
     {
       "lineId": 3,

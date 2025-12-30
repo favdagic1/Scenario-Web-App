@@ -45,5 +45,91 @@
     "nextLineId": 3,
     "content": "This is a very long line with more than twenty words that should be automatically wrapped into multiple lines by",
     "timestamp": 1766848930
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 5,
+    "nextLineId": 3,
+    "content": "wrapping feature implemented in spiral three to demonstrate that the functionality works correctly as specified in the assignment requirements",
+    "timestamp": 1767035863
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 5,
+    "content": "This is an extremely long test line that contains significantly more than twenty words and should trigger the automatic text",
+    "timestamp": 1767035863
+  },
+  {
+    "scenarioId": 5,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": null,
+    "content": "Updated line text",
+    "timestamp": 1767037133
+  },
+  {
+    "scenarioId": 6,
+    "type": "char_rename",
+    "oldName": "ALICE",
+    "newName": "ALICIA",
+    "timestamp": 1767037142
+  },
+  {
+    "scenarioId": 8,
+    "type": "line_update",
+    "lineId": 2,
+    "nextLineId": null,
+    "content": "twenty words in total",
+    "timestamp": 1767037157
+  },
+  {
+    "scenarioId": 8,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 2,
+    "content": "This is a very long text with many words that should wrap to multiple lines when the word count exceeds",
+    "timestamp": 1767037157
+  },
+  {
+    "scenarioId": 9,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": null,
+    "content": "Updated text",
+    "timestamp": 1767037180
+  },
+  {
+    "scenarioId": 10,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": null,
+    "content": "Test delta content",
+    "timestamp": 1767037187
+  },
+  {
+    "scenarioId": 13,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": null,
+    "content": "ALICE says hello to BOB",
+    "timestamp": 1767037207
+  },
+  {
+    "scenarioId": 13,
+    "type": "char_rename",
+    "oldName": "ALICE",
+    "newName": "ALICIA",
+    "timestamp": 1767037207
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 5,
+    "content": "asd",
+    "timestamp": 1767056801
   }
 ]

@@ -1,0 +1,16 @@
+{
+  "id": 8,
+  "title": "Validation Test",
+  "content": [
+    {
+      "lineId": 1,
+      "nextLineId": 2,
+      "text": "This is a very long text with many words that should wrap to multiple lines when the word count exceeds"
+    },
+    {
+      "lineId": 2,
+      "nextLineId": null,
+      "text": "twenty words in total"
+    }
+  ]
+}
