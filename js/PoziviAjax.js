@@ -1,7 +1,4 @@
-/**
- * PoziviAjax - Modul za AJAX komunikaciju sa backend API-jem
- * Koristi Fetch API za HTTP zahtjeve
- */
+
 const PoziviAjax = (function() {
     const BASE_URL = 'http://localhost:3000/api';
 

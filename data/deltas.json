@@ -2,134 +2,166 @@
   {
     "scenarioId": 1,
     "type": "line_update",
-    "lineId": 2,
-    "nextLineId": null,
-    "content": "Alarms BLARE. Red lights flash across the control panels. The crew scrambles to their stations.",
-    "timestamp": 1766848889
+    "lineId": 1,
+    "nextLineId": 2,
+    "content": "NARATOR: Sunce je polako zalazilo nad starim gradom.",
+    "timestamp": 1736520000
   },
   {
     "scenarioId": 1,
     "type": "line_update",
-    "lineId": 1,
-    "nextLineId": 2,
-    "content": "INT. STARSHIP BRIDGE - NIGHT",
-    "timestamp": 1766848889
-  },
-  {
-    "scenarioId": 1,
-    "type": "char_rename",
-    "oldName": "KIRA",
-    "newName": "CAPTAIN KIRA",
-    "timestamp": 1766848901
+    "lineId": 2,
+    "nextLineId": 3,
+    "content": "ALICE: Jesi li siguran da je ključ ostao u biblioteci?",
+    "timestamp": 1736520010
   },
   {
     "scenarioId": 1,
     "type": "line_update",
     "lineId": 3,
     "nextLineId": 4,
-    "content": "the backend server to demonstrate the wrapping functionality which is required by the assignment specifications for spiral three of the",
-    "timestamp": 1766848930
+    "content": "BOB: To je posljednje mjesto gdje sam ga vidio prije nego što je pala noć.",
+    "timestamp": 1736520020
   },
   {
     "scenarioId": 1,
     "type": "line_update",
     "lineId": 4,
-    "nextLineId": 2,
-    "content": "project",
-    "timestamp": 1766848930
-  },
-  {
-    "scenarioId": 1,
-    "type": "line_update",
-    "lineId": 1,
-    "nextLineId": 3,
-    "content": "This is a very long line with more than twenty words that should be automatically wrapped into multiple lines by",
-    "timestamp": 1766848930
+    "nextLineId": 5,
+    "content": "ALICE: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1736520030
   },
   {
     "scenarioId": 1,
     "type": "line_update",
     "lineId": 5,
-    "nextLineId": 3,
-    "content": "wrapping feature implemented in spiral three to demonstrate that the functionality works correctly as specified in the assignment requirements",
-    "timestamp": 1767035863
+    "nextLineId": 6,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1736520040
   },
   {
     "scenarioId": 1,
     "type": "line_update",
-    "lineId": 1,
-    "nextLineId": 5,
-    "content": "This is an extremely long test line that contains significantly more than twenty words and should trigger the automatic text",
-    "timestamp": 1767035863
-  },
-  {
-    "scenarioId": 5,
-    "type": "line_update",
-    "lineId": 1,
+    "lineId": 6,
     "nextLineId": null,
-    "content": "Updated line text",
-    "timestamp": 1767037133
+    "content": "NARATOR: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1736520050
   },
   {
-    "scenarioId": 6,
+    "scenarioId": 1,
     "type": "char_rename",
-    "oldName": "ALICE",
-    "newName": "ALICIA",
-    "timestamp": 1767037142
-  },
-  {
-    "scenarioId": 8,
-    "type": "line_update",
-    "lineId": 2,
-    "nextLineId": null,
-    "content": "twenty words in total",
-    "timestamp": 1767037157
-  },
-  {
-    "scenarioId": 8,
-    "type": "line_update",
-    "lineId": 1,
-    "nextLineId": 2,
-    "content": "This is a very long text with many words that should wrap to multiple lines when the word count exceeds",
-    "timestamp": 1767037157
-  },
-  {
-    "scenarioId": 9,
-    "type": "line_update",
-    "lineId": 1,
-    "nextLineId": null,
-    "content": "Updated text",
-    "timestamp": 1767037180
-  },
-  {
-    "scenarioId": 10,
-    "type": "line_update",
-    "lineId": 1,
-    "nextLineId": null,
-    "content": "Test delta content",
-    "timestamp": 1767037187
-  },
-  {
-    "scenarioId": 13,
-    "type": "line_update",
-    "lineId": 1,
-    "nextLineId": null,
-    "content": "ALICE says hello to BOB",
-    "timestamp": 1767037207
-  },
-  {
-    "scenarioId": 13,
-    "type": "char_rename",
-    "oldName": "ALICE",
-    "newName": "ALICIA",
-    "timestamp": 1767037207
+    "oldName": "BOB",
+    "newName": "ROBERT",
+    "timestamp": 1736520100
   },
   {
     "scenarioId": 1,
     "type": "line_update",
-    "lineId": 1,
-    "nextLineId": 5,
-    "content": "asd",
-    "timestamp": 1767056801
+    "lineId": 7,
+    "nextLineId": 8,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768413440
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 8,
+    "nextLineId": 4,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768413440
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 3,
+    "nextLineId": 7,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768413440
+  },
+  {
+    "scenarioId": 1,
+    "type": "char_rename",
+    "oldName": "ALICE",
+    "newName": "ALICIA",
+    "timestamp": 1768413440
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 9,
+    "nextLineId": 10,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768415510
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 10,
+    "nextLineId": 7,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768415510
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 3,
+    "nextLineId": 9,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768415510
+  },
+  {
+    "scenarioId": 1,
+    "type": "char_rename",
+    "oldName": "ALICE",
+    "newName": "ALICIA",
+    "timestamp": 1768415510
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 11,
+    "nextLineId": 7,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768415759
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 10,
+    "nextLineId": 11,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768415759
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 12,
+    "nextLineId": 11,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768415762
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 10,
+    "nextLineId": 12,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768415762
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 13,
+    "nextLineId": 12,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768415763
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 10,
+    "nextLineId": 13,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768415763
   }
 ]
