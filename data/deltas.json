@@ -1,0 +1,3284 @@
+[
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 2,
+    "content": "NARATOR: Sunce je polako zalazilo nad starim gradom.",
+    "timestamp": 1736520000
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 2,
+    "nextLineId": 3,
+    "content": "ALICE: Jesi li siguran da je ključ ostao u biblioteci?",
+    "timestamp": 1736520010
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 3,
+    "nextLineId": 4,
+    "content": "BOB: To je posljednje mjesto gdje sam ga vidio prije nego što je pala noć.",
+    "timestamp": 1736520020
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 4,
+    "nextLineId": 5,
+    "content": "ALICE: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1736520030
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 5,
+    "nextLineId": 6,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1736520040
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 6,
+    "nextLineId": null,
+    "content": "NARATOR: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1736520050
+  },
+  {
+    "scenarioId": 1,
+    "type": "char_rename",
+    "oldName": "BOB",
+    "newName": "ROBERT",
+    "timestamp": 1736520100
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 7,
+    "nextLineId": 8,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768413440
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 8,
+    "nextLineId": 4,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768413440
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 3,
+    "nextLineId": 7,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768413440
+  },
+  {
+    "scenarioId": 1,
+    "type": "char_rename",
+    "oldName": "ALICE",
+    "newName": "ALICIA",
+    "timestamp": 1768413440
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 9,
+    "nextLineId": 10,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768415510
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 10,
+    "nextLineId": 7,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768415510
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 3,
+    "nextLineId": 9,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768415510
+  },
+  {
+    "scenarioId": 1,
+    "type": "char_rename",
+    "oldName": "ALICE",
+    "newName": "ALICIA",
+    "timestamp": 1768415510
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 11,
+    "nextLineId": 7,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768415759
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 10,
+    "nextLineId": 11,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768415759
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 12,
+    "nextLineId": 11,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768415762
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 10,
+    "nextLineId": 12,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768415762
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 13,
+    "nextLineId": 12,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768415763
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 10,
+    "nextLineId": 13,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768415763
+  },
+  {
+    "scenarioId": 16,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": null,
+    "content": "ddasdasdasd",
+    "timestamp": 1768480306
+  },
+  {
+    "scenarioId": 1,
+    "type": "char_rename",
+    "oldName": "ALICIA",
+    "newName": "FARUK",
+    "timestamp": 1768483587
+  },
+  {
+    "scenarioId": 1,
+    "type": "char_rename",
+    "oldName": "NARATOR",
+    "newName": "TRILA",
+    "timestamp": 1768483625
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 14,
+    "nextLineId": 15,
+    "content": "FARUK: Jesi li siguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486808
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 15,
+    "nextLineId": 16,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486808
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 16,
+    "nextLineId": 17,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486808
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 17,
+    "nextLineId": 18,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486808
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 18,
+    "nextLineId": 19,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486808
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 19,
+    "nextLineId": 20,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486808
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 20,
+    "nextLineId": 21,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486808
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 21,
+    "nextLineId": 22,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486808
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 22,
+    "nextLineId": 23,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486808
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 23,
+    "nextLineId": 24,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486808
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 24,
+    "nextLineId": 25,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486808
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 25,
+    "nextLineId": 2,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486808
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 14,
+    "content": "TRILA: Sunce je polako zalazilo nad starim gradom.",
+    "timestamp": 1768486808
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 26,
+    "nextLineId": 27,
+    "content": "FARUK: Jesi li siguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486811
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 27,
+    "nextLineId": 28,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486811
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 28,
+    "nextLineId": 29,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486811
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 29,
+    "nextLineId": 30,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486811
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 30,
+    "nextLineId": 31,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486811
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 31,
+    "nextLineId": 32,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486811
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 32,
+    "nextLineId": 33,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486811
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 33,
+    "nextLineId": 34,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486811
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 34,
+    "nextLineId": 35,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486811
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 35,
+    "nextLineId": 36,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486811
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 36,
+    "nextLineId": 37,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486811
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 37,
+    "nextLineId": 14,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486811
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 26,
+    "content": "TRILA: Sunce je polako zalazilo nad starim gradom.",
+    "timestamp": 1768486811
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 38,
+    "nextLineId": 39,
+    "content": "FARUK: Jesi asdsiguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486826
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 39,
+    "nextLineId": 40,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486826
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 40,
+    "nextLineId": 41,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486826
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 41,
+    "nextLineId": 42,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486826
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 42,
+    "nextLineId": 43,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486826
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 43,
+    "nextLineId": 44,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486826
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 44,
+    "nextLineId": 45,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486826
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 45,
+    "nextLineId": 46,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486826
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 46,
+    "nextLineId": 47,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486826
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 47,
+    "nextLineId": 48,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486826
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 48,
+    "nextLineId": 49,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486826
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 49,
+    "nextLineId": 26,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486826
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 38,
+    "content": "TRILA: Sunce je polako zalazilo nad starim gradom.",
+    "timestamp": 1768486826
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 50,
+    "nextLineId": 51,
+    "content": "FARUK: Jesi asdsiguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 51,
+    "nextLineId": 52,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 52,
+    "nextLineId": 53,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 53,
+    "nextLineId": 54,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 54,
+    "nextLineId": 55,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 55,
+    "nextLineId": 56,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 56,
+    "nextLineId": 57,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 57,
+    "nextLineId": 58,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 58,
+    "nextLineId": 59,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 59,
+    "nextLineId": 60,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 60,
+    "nextLineId": 61,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 61,
+    "nextLineId": 38,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 50,
+    "content": "TRILA: Sunce je polako zalazilo nad starim gradom.",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 62,
+    "nextLineId": 63,
+    "content": "FARUK: Jesi asdsiguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 63,
+    "nextLineId": 64,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 64,
+    "nextLineId": 65,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 65,
+    "nextLineId": 66,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 66,
+    "nextLineId": 67,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 67,
+    "nextLineId": 68,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 68,
+    "nextLineId": 69,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 69,
+    "nextLineId": 70,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 70,
+    "nextLineId": 71,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 71,
+    "nextLineId": 72,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 72,
+    "nextLineId": 73,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 73,
+    "nextLineId": 50,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 62,
+    "content": "TRILA: Sunce je polako zalazilo nad starim gradom.",
+    "timestamp": 1768486828
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 74,
+    "nextLineId": 75,
+    "content": "FARUK: Jesi li siguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486831
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 75,
+    "nextLineId": 76,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486831
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 76,
+    "nextLineId": 77,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486831
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 77,
+    "nextLineId": 78,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486831
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 78,
+    "nextLineId": 79,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486831
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 79,
+    "nextLineId": 80,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486831
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 80,
+    "nextLineId": 81,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486831
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 81,
+    "nextLineId": 82,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486831
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 82,
+    "nextLineId": 83,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486831
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 83,
+    "nextLineId": 84,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486831
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 84,
+    "nextLineId": 85,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486831
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 85,
+    "nextLineId": 62,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486831
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 74,
+    "content": "TRILA: Sunce je polako zalazilo nad starim gradom.",
+    "timestamp": 1768486831
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 86,
+    "nextLineId": 87,
+    "content": "FARUK: asdasdJesi asdsiguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486855
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 87,
+    "nextLineId": 88,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486855
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 88,
+    "nextLineId": 89,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486855
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 89,
+    "nextLineId": 90,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486855
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 90,
+    "nextLineId": 91,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486855
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 91,
+    "nextLineId": 92,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486855
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 92,
+    "nextLineId": 93,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486855
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 93,
+    "nextLineId": 94,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486855
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 94,
+    "nextLineId": 95,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486855
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 95,
+    "nextLineId": 96,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486855
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 96,
+    "nextLineId": 97,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486855
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 97,
+    "nextLineId": 74,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486855
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 86,
+    "content": "TRILA: Sunce je polako zalazilo nad starim gradom.",
+    "timestamp": 1768486855
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 98,
+    "nextLineId": 99,
+    "content": "FARUK: asdasdJesi asdsiguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 99,
+    "nextLineId": 100,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 100,
+    "nextLineId": 101,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 101,
+    "nextLineId": 102,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 102,
+    "nextLineId": 103,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 103,
+    "nextLineId": 104,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 104,
+    "nextLineId": 105,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 105,
+    "nextLineId": 106,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 106,
+    "nextLineId": 107,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 107,
+    "nextLineId": 108,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 108,
+    "nextLineId": 109,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 109,
+    "nextLineId": 86,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 98,
+    "content": "TRILA: Sunce je polako zalazilo nad starim gradom.",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 110,
+    "nextLineId": 111,
+    "content": "FARUK: asdasdJesi asdsiguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 111,
+    "nextLineId": 112,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 112,
+    "nextLineId": 113,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 113,
+    "nextLineId": 114,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 114,
+    "nextLineId": 115,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 115,
+    "nextLineId": 116,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 116,
+    "nextLineId": 117,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 117,
+    "nextLineId": 118,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 118,
+    "nextLineId": 119,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 119,
+    "nextLineId": 120,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 120,
+    "nextLineId": 121,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 121,
+    "nextLineId": 98,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 110,
+    "content": "TRILA: Sunce je polako zalazilo nad starim gradom.",
+    "timestamp": 1768486856
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 122,
+    "nextLineId": 123,
+    "content": "FARUK: asdasdJesi asdsiguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 123,
+    "nextLineId": 124,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 124,
+    "nextLineId": 125,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 125,
+    "nextLineId": 126,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 126,
+    "nextLineId": 127,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 127,
+    "nextLineId": 128,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 128,
+    "nextLineId": 129,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 129,
+    "nextLineId": 130,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 130,
+    "nextLineId": 131,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 131,
+    "nextLineId": 132,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 132,
+    "nextLineId": 133,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 133,
+    "nextLineId": 110,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 122,
+    "content": "TRILA: Sunce je polako zalazilo nad starim gradom.",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 134,
+    "nextLineId": 135,
+    "content": "FARUK: asdasdJesi asdsiguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 135,
+    "nextLineId": 136,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 136,
+    "nextLineId": 137,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 137,
+    "nextLineId": 138,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 138,
+    "nextLineId": 139,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 139,
+    "nextLineId": 140,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 140,
+    "nextLineId": 141,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 141,
+    "nextLineId": 142,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 142,
+    "nextLineId": 143,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 143,
+    "nextLineId": 144,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 144,
+    "nextLineId": 145,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 145,
+    "nextLineId": 122,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 134,
+    "content": "TRILA: Sunce je polako zalazilo nad starim gradom.",
+    "timestamp": 1768486857
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 146,
+    "nextLineId": 147,
+    "content": "FARUK: Jesi li siguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486867
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 147,
+    "nextLineId": 148,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486867
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 148,
+    "nextLineId": 149,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486867
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 149,
+    "nextLineId": 150,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486867
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 150,
+    "nextLineId": 151,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486867
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 151,
+    "nextLineId": 152,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486867
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 152,
+    "nextLineId": 153,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486867
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 153,
+    "nextLineId": 154,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486867
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 154,
+    "nextLineId": 155,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486867
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 155,
+    "nextLineId": 156,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486867
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 156,
+    "nextLineId": 157,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486867
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 157,
+    "nextLineId": 134,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486867
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 146,
+    "content": "TRILA: Sunce je polako zalazilo nad starim gradom.",
+    "timestamp": 1768486867
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 158,
+    "nextLineId": 159,
+    "content": "FARUK: Jesi li siguran da je ključasdasd ostao u biblioteci?",
+    "timestamp": 1768486881
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 159,
+    "nextLineId": 160,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486881
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 160,
+    "nextLineId": 161,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486881
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 161,
+    "nextLineId": 162,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486881
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 162,
+    "nextLineId": 163,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486881
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 163,
+    "nextLineId": 164,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486881
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 164,
+    "nextLineId": 165,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486881
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 165,
+    "nextLineId": 166,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486881
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 166,
+    "nextLineId": 167,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486881
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 167,
+    "nextLineId": 168,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486881
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 168,
+    "nextLineId": 169,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486881
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 169,
+    "nextLineId": 146,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486881
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 158,
+    "content": "TRILA: Sunce je polako zalazilo nad starim gradom.",
+    "timestamp": 1768486881
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 170,
+    "nextLineId": 171,
+    "content": "FARUK: Jesi li siguran da je ključasdasd ostao u biblioteci?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 171,
+    "nextLineId": 172,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 172,
+    "nextLineId": 173,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 173,
+    "nextLineId": 174,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 174,
+    "nextLineId": 175,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 175,
+    "nextLineId": 176,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 176,
+    "nextLineId": 177,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 177,
+    "nextLineId": 178,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 178,
+    "nextLineId": 179,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 179,
+    "nextLineId": 180,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 180,
+    "nextLineId": 181,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 181,
+    "nextLineId": 182,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 182,
+    "nextLineId": 183,
+    "content": "FARUK: Jesi li siguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 183,
+    "nextLineId": 184,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 184,
+    "nextLineId": 185,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 185,
+    "nextLineId": 186,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 186,
+    "nextLineId": 187,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 187,
+    "nextLineId": 188,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 188,
+    "nextLineId": 189,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 189,
+    "nextLineId": 190,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 190,
+    "nextLineId": 191,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 191,
+    "nextLineId": 192,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 192,
+    "nextLineId": 193,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 193,
+    "nextLineId": 194,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 194,
+    "nextLineId": 195,
+    "content": "FARUK: asdasdJesi asdsiguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 195,
+    "nextLineId": 196,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 196,
+    "nextLineId": 197,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 197,
+    "nextLineId": 198,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 198,
+    "nextLineId": 199,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 199,
+    "nextLineId": 200,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 200,
+    "nextLineId": 201,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 201,
+    "nextLineId": 202,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 202,
+    "nextLineId": 203,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 203,
+    "nextLineId": 204,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 204,
+    "nextLineId": 205,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 205,
+    "nextLineId": 206,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 206,
+    "nextLineId": 207,
+    "content": "FARUK: asdasdJesi asdsiguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 207,
+    "nextLineId": 208,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 208,
+    "nextLineId": 209,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 209,
+    "nextLineId": 210,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 210,
+    "nextLineId": 211,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 211,
+    "nextLineId": 212,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 212,
+    "nextLineId": 213,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 213,
+    "nextLineId": 214,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 214,
+    "nextLineId": 215,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 215,
+    "nextLineId": 216,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 216,
+    "nextLineId": 217,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 217,
+    "nextLineId": 218,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 218,
+    "nextLineId": 219,
+    "content": "FARUK: asdasdJesi asdsiguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 219,
+    "nextLineId": 220,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 220,
+    "nextLineId": 221,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 221,
+    "nextLineId": 222,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 222,
+    "nextLineId": 223,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 223,
+    "nextLineId": 224,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 224,
+    "nextLineId": 225,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 225,
+    "nextLineId": 226,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 226,
+    "nextLineId": 227,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 227,
+    "nextLineId": 228,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 228,
+    "nextLineId": 229,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 229,
+    "nextLineId": 230,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 230,
+    "nextLineId": 231,
+    "content": "FARUK: asdasdJesi asdsiguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 231,
+    "nextLineId": 232,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 232,
+    "nextLineId": 233,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 233,
+    "nextLineId": 234,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 234,
+    "nextLineId": 235,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 235,
+    "nextLineId": 236,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 236,
+    "nextLineId": 237,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 237,
+    "nextLineId": 238,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 238,
+    "nextLineId": 239,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 239,
+    "nextLineId": 240,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 240,
+    "nextLineId": 241,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 241,
+    "nextLineId": 242,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 242,
+    "nextLineId": 243,
+    "content": "FARUK: asdasdJesi asdsiguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 243,
+    "nextLineId": 244,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 244,
+    "nextLineId": 245,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 245,
+    "nextLineId": 246,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 246,
+    "nextLineId": 247,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 247,
+    "nextLineId": 248,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 248,
+    "nextLineId": 249,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 249,
+    "nextLineId": 250,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 250,
+    "nextLineId": 251,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 251,
+    "nextLineId": 252,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 252,
+    "nextLineId": 253,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 253,
+    "nextLineId": 254,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 254,
+    "nextLineId": 255,
+    "content": "FARUK: Jesi li siguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 255,
+    "nextLineId": 256,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 256,
+    "nextLineId": 257,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 257,
+    "nextLineId": 258,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 258,
+    "nextLineId": 259,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 259,
+    "nextLineId": 260,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 260,
+    "nextLineId": 261,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 261,
+    "nextLineId": 262,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 262,
+    "nextLineId": 263,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 263,
+    "nextLineId": 264,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 264,
+    "nextLineId": 265,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 265,
+    "nextLineId": 266,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 266,
+    "nextLineId": 267,
+    "content": "FARUK: Jesi asdsiguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 267,
+    "nextLineId": 268,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 268,
+    "nextLineId": 269,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 269,
+    "nextLineId": 270,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 270,
+    "nextLineId": 271,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 271,
+    "nextLineId": 272,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 272,
+    "nextLineId": 273,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 273,
+    "nextLineId": 274,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 274,
+    "nextLineId": 275,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 275,
+    "nextLineId": 276,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 276,
+    "nextLineId": 277,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 277,
+    "nextLineId": 278,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 278,
+    "nextLineId": 279,
+    "content": "FARUK: Jesi asdsiguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 279,
+    "nextLineId": 280,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 280,
+    "nextLineId": 281,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 281,
+    "nextLineId": 282,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 282,
+    "nextLineId": 283,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 283,
+    "nextLineId": 284,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 284,
+    "nextLineId": 285,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 285,
+    "nextLineId": 286,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 286,
+    "nextLineId": 287,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 287,
+    "nextLineId": 288,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 288,
+    "nextLineId": 289,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 289,
+    "nextLineId": 290,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 290,
+    "nextLineId": 291,
+    "content": "FARUK: Jesi asdsiguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 291,
+    "nextLineId": 292,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 292,
+    "nextLineId": 293,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 293,
+    "nextLineId": 294,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 294,
+    "nextLineId": 295,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 295,
+    "nextLineId": 296,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 296,
+    "nextLineId": 297,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 297,
+    "nextLineId": 298,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 298,
+    "nextLineId": 299,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 299,
+    "nextLineId": 300,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 300,
+    "nextLineId": 301,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 301,
+    "nextLineId": 302,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 302,
+    "nextLineId": 303,
+    "content": "FARUK: Jesi li siguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 303,
+    "nextLineId": 304,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 304,
+    "nextLineId": 305,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 305,
+    "nextLineId": 306,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 306,
+    "nextLineId": 307,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 307,
+    "nextLineId": 308,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 308,
+    "nextLineId": 309,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 309,
+    "nextLineId": 310,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 310,
+    "nextLineId": 311,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 311,
+    "nextLineId": 312,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 312,
+    "nextLineId": 313,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 313,
+    "nextLineId": 314,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 314,
+    "nextLineId": 315,
+    "content": "FARUK: Jesi li siguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 315,
+    "nextLineId": 316,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 316,
+    "nextLineId": 317,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 317,
+    "nextLineId": 318,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 318,
+    "nextLineId": 319,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 319,
+    "nextLineId": 320,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 320,
+    "nextLineId": 321,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 321,
+    "nextLineId": 322,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 322,
+    "nextLineId": 323,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 323,
+    "nextLineId": 324,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 324,
+    "nextLineId": 325,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 325,
+    "nextLineId": 326,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 326,
+    "nextLineId": 327,
+    "content": "FARUK: Jesi li siguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 327,
+    "nextLineId": 328,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 328,
+    "nextLineId": 329,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 329,
+    "nextLineId": 330,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 330,
+    "nextLineId": 331,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 331,
+    "nextLineId": 332,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 332,
+    "nextLineId": 333,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 333,
+    "nextLineId": 334,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 334,
+    "nextLineId": 335,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 335,
+    "nextLineId": 336,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 336,
+    "nextLineId": 337,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 337,
+    "nextLineId": 158,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 170,
+    "content": "TRILA: Sunce je polako zalazilo nad starim gradom.",
+    "timestamp": 1768486895
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 338,
+    "nextLineId": 339,
+    "content": "FARUK: asdasdJesi asdsiguran da je ključ ostao u biblioteci?",
+    "timestamp": 1768486897
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 339,
+    "nextLineId": 340,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486897
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 340,
+    "nextLineId": 341,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486897
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 341,
+    "nextLineId": 342,
+    "content": "Prva polovina rečenice...",
+    "timestamp": 1768486897
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 342,
+    "nextLineId": 343,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486897
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 343,
+    "nextLineId": 344,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486897
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 344,
+    "nextLineId": 345,
+    "content": "...druga polovina rečenice",
+    "timestamp": 1768486897
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 345,
+    "nextLineId": 346,
+    "content": "riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ riječ",
+    "timestamp": 1768486897
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 346,
+    "nextLineId": 347,
+    "content": "riječ riječ riječ riječ riječ",
+    "timestamp": 1768486897
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 347,
+    "nextLineId": 348,
+    "content": "FARUK: Moramo požuriti prije nego što čuvar zaključa glavna vrata.",
+    "timestamp": 1768486897
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 348,
+    "nextLineId": 349,
+    "content": "BOB: Čekaj, čuješ li taj zvuk iza polica?",
+    "timestamp": 1768486897
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 349,
+    "nextLineId": 170,
+    "content": "TRILA: Iz sjene se polako pojavila nepoznata figura.",
+    "timestamp": 1768486897
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 338,
+    "content": "TRILA: Sunce je polako zalazilo nad starim gradom.",
+    "timestamp": 1768486897
+  },
+  {
+    "scenarioId": 2,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": null,
+    "content": "asdasd",
+    "timestamp": 1768487881
+  },
+  {
+    "scenarioId": 2,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": null,
+    "content": "asdasd",
+    "timestamp": 1768487898
+  },
+  {
+    "scenarioId": 2,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": null,
+    "content": "as",
+    "timestamp": 1768487907
+  },
+  {
+    "scenarioId": 2,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": null,
+    "content": "asdasd",
+    "timestamp": 1768487912
+  },
+  {
+    "scenarioId": 2,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": null,
+    "content": "asdasd",
+    "timestamp": 1768487928
+  },
+  {
+    "scenarioId": 2,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": null,
+    "content": "asdasd",
+    "timestamp": 1768487974
+  },
+  {
+    "scenarioId": 2,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": null,
+    "content": "asdasdASDA",
+    "timestamp": 1768487988
+  },
+  {
+    "scenarioId": 2,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": null,
+    "content": "asdasd",
+    "timestamp": 1768487996
+  },
+  {
+    "scenarioId": 2,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": null,
+    "content": "asdasd",
+    "timestamp": 1768487998
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 350,
+    "nextLineId": 351,
+    "content": "Alarms BLARE. Red lights flash across the control panels. The crew scrambles to their stations.",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 351,
+    "nextLineId": 352,
+    "content": "CAPTAIN KIRA bursts through the door, her expression grim.",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 352,
+    "nextLineId": 353,
+    "content": "KIRA",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 353,
+    "nextLineId": 354,
+    "content": "Report! What's our status?",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 354,
+    "nextLineId": 355,
+    "content": "CHEN",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 355,
+    "nextLineId": 356,
+    "content": "Hull breach on deck seven. We're losing pressure fast.",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 356,
+    "nextLineId": 357,
+    "content": "KIRA",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 357,
+    "nextLineId": 358,
+    "content": "Seal it off. Now!",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 358,
+    "nextLineId": 359,
+    "content": "(to communications officer)",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 359,
+    "nextLineId": 360,
+    "content": "Get me engineering.",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 360,
+    "nextLineId": 361,
+    "content": "INT. ENGINE ROOM - NIGHT",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 361,
+    "nextLineId": 362,
+    "content": "Sparks fly from damaged control panels. Steam hisses from broken pipes.",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 362,
+    "nextLineId": 363,
+    "content": "MARCUS",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 363,
+    "nextLineId": 364,
+    "content": "We can't hold this together much longer, Captain!",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 364,
+    "nextLineId": 365,
+    "content": "KIRA",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 365,
+    "nextLineId": 366,
+    "content": "You have to, Marcus. We need five more minutes.",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 366,
+    "nextLineId": 367,
+    "content": "MARCUS",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 367,
+    "nextLineId": 368,
+    "content": "I'll do what I can.",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 368,
+    "nextLineId": 369,
+    "content": "EXT. ASTEROID FIELD - DAY",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 369,
+    "nextLineId": 370,
+    "content": "The starship weaves through massive floating rocks, narrowly avoiding collision.",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 370,
+    "nextLineId": 371,
+    "content": "CHEN",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 371,
+    "nextLineId": 372,
+    "content": "We're clear of the field!",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 372,
+    "nextLineId": 373,
+    "content": "KIRA",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 373,
+    "nextLineId": 338,
+    "content": "Take us home, Chen. Take us home.",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 350,
+    "content": "INT. STARSHIP BRIDGE - NIGHT",
+    "timestamp": 1768488002
+  },
+  {
+    "scenarioId": 1,
+    "type": "char_rename",
+    "oldName": "KIRA",
+    "newName": "FARUK",
+    "timestamp": 1768489282
+  },
+  {
+    "scenarioId": 17,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": null,
+    "content": "ASDASDASD",
+    "timestamp": 1768489366
+  }
+]
