@@ -1,0 +1,57 @@
+[
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 1,
+    "nextLineId": 2,
+    "content": "INT. KAFIC - DAY",
+    "timestamp": 1736520000
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 2,
+    "nextLineId": 3,
+    "content": "ALICE sjedi za stolom.",
+    "timestamp": 1736520001
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 3,
+    "nextLineId": 4,
+    "content": "Prazna linija za test prelamanja.",
+    "timestamp": 1736520002
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 4,
+    "nextLineId": 5,
+    "content": "ALICE",
+    "timestamp": 1736520003
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 5,
+    "nextLineId": 6,
+    "content": "Dobar dan, kako ste?",
+    "timestamp": 1736520004
+  },
+  {
+    "scenarioId": 1,
+    "type": "line_update",
+    "lineId": 6,
+    "nextLineId": null,
+    "content": "BOB",
+    "timestamp": 1736520005
+  },
+  {
+    "scenarioId": 1,
+    "type": "char_rename",
+    "oldName": "ALICE",
+    "newName": "ANA",
+    "timestamp": 1736521800
+  }
+]

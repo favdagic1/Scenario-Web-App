@@ -1,0 +1,131 @@
+{
+  "id": 1,
+  "title": "Potraga za izgubljenim ključem",
+  "content": [
+    {
+      "lineId": 1,
+      "nextLineId": 350,
+      "text": "INT. STARSHIP BRIDGE - NIGHT"
+    },
+    {
+      "lineId": 350,
+      "nextLineId": 351,
+      "text": "Alarms BLARE. Red lights flash across the control panels. The crew scrambles to their stations."
+    },
+    {
+      "lineId": 351,
+      "nextLineId": 352,
+      "text": "CAPTAIN FARUK bursts through the door, her expression grim."
+    },
+    {
+      "lineId": 352,
+      "nextLineId": 353,
+      "text": "FARUK"
+    },
+    {
+      "lineId": 353,
+      "nextLineId": 354,
+      "text": "Report! What's our status?"
+    },
+    {
+      "lineId": 354,
+      "nextLineId": 355,
+      "text": "CHEN"
+    },
+    {
+      "lineId": 355,
+      "nextLineId": 356,
+      "text": "Hull breach on deck seven. We're losing pressure fast."
+    },
+    {
+      "lineId": 356,
+      "nextLineId": 357,
+      "text": "FARUK"
+    },
+    {
+      "lineId": 357,
+      "nextLineId": 358,
+      "text": "Seal it off. Now!"
+    },
+    {
+      "lineId": 358,
+      "nextLineId": 359,
+      "text": "(to communications officer)"
+    },
+    {
+      "lineId": 359,
+      "nextLineId": 360,
+      "text": "Get me engineering."
+    },
+    {
+      "lineId": 360,
+      "nextLineId": 361,
+      "text": "INT. ENGINE ROOM - NIGHT"
+    },
+    {
+      "lineId": 361,
+      "nextLineId": 362,
+      "text": "Sparks fly from damaged control panels. Steam hisses from broken pipes."
+    },
+    {
+      "lineId": 362,
+      "nextLineId": 363,
+      "text": "MARCUS"
+    },
+    {
+      "lineId": 363,
+      "nextLineId": 364,
+      "text": "We can't hold this together much longer, Captain!"
+    },
+    {
+      "lineId": 364,
+      "nextLineId": 365,
+      "text": "FARUK"
+    },
+    {
+      "lineId": 365,
+      "nextLineId": 366,
+      "text": "You have to, Marcus. We need five more minutes."
+    },
+    {
+      "lineId": 366,
+      "nextLineId": 367,
+      "text": "MARCUS"
+    },
+    {
+      "lineId": 367,
+      "nextLineId": 368,
+      "text": "I'll do what I can."
+    },
+    {
+      "lineId": 368,
+      "nextLineId": 369,
+      "text": "EXT. ASTEROID FIELD - DAY"
+    },
+    {
+      "lineId": 369,
+      "nextLineId": 370,
+      "text": "The starship weaves through massive floating rocks, narrowly avoiding collision."
+    },
+    {
+      "lineId": 370,
+      "nextLineId": 371,
+      "text": "CHEN"
+    },
+    {
+      "lineId": 371,
+      "nextLineId": 372,
+      "text": "We're clear of the field!"
+    },
+    {
+      "lineId": 372,
+      "nextLineId": 373,
+      "text": "FARUK"
+    },
+    {
+      "lineId": 373,
+      "nextLineId": null,
+      "text": "Take us home, Chen. Take us home."
+    }
+  ]
+}

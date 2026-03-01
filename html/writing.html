@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ScenarijPro - Pisanje scenarija</title>
+    <link rel="stylesheet" href="../css/writing.css">
+    <script src="../js/EditorTeksta.js" defer></script>
+    <script src="../js/PoziviAjaxFetch.js" defer></script>
+    <script src="../js/editor.js" defer></script>
+</head>
+<body>
+    <!-- Zaglavlje (sticky) -->
+    <header class="header">
+        <div class="header-left">
+            <button class="btn-back">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M19 12H5M12 19l-7-7 7-7"/>
+                </svg>
+            </button>
+            <h1 class="project-title">THE LAST STARSHIP (Draft 2)</h1>
+        </div>
+
+        <div class="header-center">
+            <button class="btn-format">SCENA</button>
+            <button class="btn-format">AKCIJA</button>
+            <button class="btn-format">LIK</button>
+            <button class="btn-format">DIJALOG</button>
+        </div>
+
+        <div class="header-right">
+            <button class="btn-save">Spasi</button>
+        </div>
+    </header>
+
+    <!-- Kontrolna tabla za metode -->
+    <div class="controls-panel">
+        <div class="controls-group">
+            <h3>Analiza teksta:</h3>
+            <button id="btnBrojRijeci" class="btn-control">Broj riječi</button>
+            <button id="btnDajUloge" class="btn-control">Prikaži uloge</button>
+            <button id="btnPogresnaUloga" class="btn-control">Provjeri uloge</button>
+        </div>
+
+        <div class="controls-group">
+            <h3>Analiza uloga:</h3>
+            <input type="text" id="inputUloga" class="input-uloga" placeholder="Ime uloge (npr. KIRA)">
+            <button id="btnBrojLinija" class="btn-control">Broj linija</button>
+            <button id="btnScenarijUloge" class="btn-control">Scenarij uloge</button>
+        </div>
+
+        <div class="controls-group">
+            <h3>Grupe i formatiranje:</h3>
+            <button id="btnGrupisiUloge" class="btn-control">Grupisi uloge</button>
+            <button id="btnBold" class="btn-format-control">Bold</button>
+            <button id="btnItalic" class="btn-format-control">Italic</button>
+            <button id="btnUnderline" class="btn-format-control">Underline</button>
+        </div>
+
+        <div class="controls-group">
+            <h3>Scenariji:</h3>
+            <input type="number" id="inputUserId" class="input-uloga" placeholder="User ID (npr. 1)" value="1">
+            <input type="number" id="inputScenarioId" class="input-uloga" placeholder="Scenario ID (npr. 1)" value="1">
+            <input type="number" id="inputLineId" class="input-uloga" placeholder="Line ID (npr. 1)" value="1">
+            <button id="btnCreateScenario" class="btn-control">Kreiraj Scenarij</button>
+            <button id="btnLoadScenario" class="btn-control">Učitaj Scenarij</button>
+            <button id="btnLockLine" class="btn-control">Zaključaj liniju</button>
+            <button id="btnSaveToBackend" class="btn-format-control">Sačuvaj na Backend</button>
+        </div>
+
+        <div class="controls-group">
+            <h3>Likovi:</h3>
+            <input type="text" id="inputOldName" class="input-uloga" placeholder="Staro ime (npr. ALICIA)">
+            <input type="text" id="inputNewName" class="input-uloga" placeholder="Novo ime (npr. MARIJA)">
+            <button id="btnRenameCharacter" class="btn-control">Preimenuj lika</button>
+        </div>
+
+        <div class="controls-group">
+            <h3>Sinkronizacija:</h3>
+            <input type="number" id="inputSinceTimestamp" class="input-uloga" placeholder="Timestamp (0 za sve)" value="0">
+            <button id="btnGetDeltas" class="btn-control">Dohvati promjene</button>
+        </div>
+    </div>
+
+    <!-- Div za prikaz poruka -->
+    <div id="poruke" class="poruke-container"></div>
+
+    <div class="content-wrapper">
+        <!-- Sidebar za scene -->
+        <aside class="sidebar">
+            <h2 class="sidebar-title">Scene (10)</h2>
+
+            <div class="scene-list">
+                <div class="scene-item active">
+                    <div class="scene-title">1. INT. STARSHIP BRIDGE - NIGHT</div>
+                    <div class="scene-pages">5/8</div>
+                </div>
+
+                <div class="scene-item">
+                    <div class="scene-title">2. EXT. ASTEROID FIELD - DAY</div>
+                    <div class="scene-pages">3/8</div>
+                </div>
+
+                <div class="scene-item">
+                    <div class="scene-title">3. INT. ENGINE ROOM - NIGHT</div>
+                    <div class="scene-pages">2/8</div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Glavni editor -->
+        <main class="editor">
+            <div id="divEditor" class="script-content" contenteditable="true">
+                <p class="scene-heading">INT. STARSHIP BRIDGE - NIGHT</p>
+
+                <p class="action">Alarms BLARE. Red lights flash across the control panels. The crew scrambles to their stations.</p>
+
+                <p class="action">CAPTAIN KIRA bursts through the door, her expression grim.</p>
+
+                <p>KIRA</p>
+                <p>Report! What's our status?</p>
+
+                <p>CHEN</p>
+                <p>Hull breach on deck seven. We're losing pressure fast.</p>
+
+                <p>KIRA</p>
+                <p>Seal it off. Now!</p>
+                <p>(to communications officer)</p>
+                <p>Get me engineering.</p>
+
+                <p class="scene-heading">INT. ENGINE ROOM - NIGHT</p>
+
+                <p class="action">Sparks fly from damaged control panels. Steam hisses from broken pipes.</p>
+
+                <p>MARCUS</p>
+                <p>We can't hold this together much longer, Captain!</p>
+
+                <p>KIRA</p>
+                <p>You have to, Marcus. We need five more minutes.</p>
+
+                <p>MARCUS</p>
+                <p>I'll do what I can.</p>
+
+                <p class="scene-heading">EXT. ASTEROID FIELD - DAY</p>
+
+                <p class="action">The starship weaves through massive <b>floating</b> rocks, narrowly avoiding collision.</p>
+
+                <p>CHEN</p>
+                <p>We're clear of the field!</p>
+
+                <p>KIRA</p>
+                <p>Take us home, <i>Chen</i>. Take us home.</p>
+            </div>
+        </main>
+    </div>
+</body>
+</html>

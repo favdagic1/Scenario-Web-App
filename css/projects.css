@@ -1,0 +1,270 @@
+/* Opći stilovi */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Poppins", "Inter", sans-serif;
+    background-color: #f5f6fa;
+    display: flex;
+    min-height: 100vh;
+}
+
+/* Lijevi Sidebar */
+.sidebar {
+    width: 250px;
+    background-color: #f8f9fb;
+    padding: 30px 20px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.app-title {
+    font-size: 24px;
+    font-weight: 600;
+    color: #5B3FFF;
+    margin-bottom: 30px;
+}
+
+/* Navigacijski meni */
+.nav-menu {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 20px;
+}
+
+.nav-item {
+    padding: 12px 16px;
+    text-decoration: none;
+    color: #333333;
+    border-radius: 8px;
+    transition: background-color 0.2s;
+}
+
+.nav-item.active {
+    background-color: #E9EEFF;
+    color: #5B3FFF;
+    font-weight: 500;
+}
+
+.nav-item:hover {
+    background-color: #dfe3fc;
+}
+
+.divider {
+    border: none;
+    border-top: 1px solid #d1d5db;
+    margin: 20px 0;
+}
+
+/* Profil korisnika */
+.user-profile {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: auto;
+}
+
+.user-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #333333;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.user-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.user-name {
+    font-size: 14px;
+    font-weight: 500;
+    color: #333333;
+}
+
+.user-badge {
+    font-size: 12px;
+    color: #9ca3af;
+}
+
+/* Glavni sadržaj */
+.main-content {
+    flex: 1;
+    padding: 40px;
+}
+
+/* Zaglavlje */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.header h1 {
+    font-size: 32px;
+    font-weight: 600;
+    color: #333333;
+}
+
+.header-actions {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.search-input {
+    padding: 10px 16px;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    font-family: inherit;
+    font-size: 14px;
+    min-width: 200px;
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: #5B3FFF;
+}
+
+.btn-new-project {
+    padding: 10px 20px;
+    background-color: #5B3FFF;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-family: inherit;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.btn-new-project:hover {
+    background-color: #4829e6;
+}
+
+/* Grid kartica */
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+/* Kartica projekta */
+.project-card {
+    background-color: white;
+    padding: 24px;
+    border-radius: 12px;
+    position: relative;
+    transition: box-shadow 0.2s;
+}
+
+.project-card:hover {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.project-title {
+    font-size: 18px;
+    font-weight: 700;
+    color: #333333;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+}
+
+.project-desc {
+    font-size: 14px;
+    color: #6b7280;
+    margin-bottom: 20px;
+}
+
+.project-details {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    font-size: 13px;
+    color: #4b5563;
+}
+
+.project-details p {
+    margin: 0;
+}
+
+.project-details strong {
+    font-weight: 600;
+}
+
+/* Aktivna kartica */
+.project-card.active {
+    border-left: 4px solid #5B3FFF;
+}
+
+.active-badge {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    background-color: #5B3FFF;
+    color: white;
+    padding: 4px 12px;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+/* Kartica za novi projekat */
+.project-card.new-project {
+    border: 2px dashed #d1d5db;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    cursor: pointer;
+    background-color: #fafbfc;
+}
+
+.project-card.new-project:hover {
+    border-color: #5B3FFF;
+    background-color: #f0f2f5;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.plus-icon {
+    font-size: 48px;
+    color: #9ca3af;
+}
+
+.project-card.new-project p {
+    font-size: 14px;
+    color: #6b7280;
+    font-weight: 500;
+    margin: 0;
+}
+
+/* Responzivnost */
+@media (max-width: 750px) {
+    body {
+        flex-direction: column;
+    }
+
+    .sidebar {
+        width: 100%;
+    }
+
+    .projects-grid {
+        grid-template-columns: 1fr;
+    }
+}
